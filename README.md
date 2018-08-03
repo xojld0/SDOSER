@@ -1,0 +1,2 @@
+# SDOSER
+Simple Doser(winsock)
